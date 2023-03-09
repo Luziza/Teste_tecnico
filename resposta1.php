@@ -6,11 +6,6 @@
 </head>
 <body>
 <?php 
-    $nome = "Luiza";
-    echo "olá mundo a" ;
-    print "$nome <br>";
-    echo "<hr>";
-
     $nota1 = 8;
     $nota2 = 7;
 
